@@ -1,0 +1,3 @@
+GET http://localhost:3030/api/hello
+###
+POST http://localhost:3030/api/addNewRecipe/testNamegddg/TestNotehyh/testDureezada/testURL1
